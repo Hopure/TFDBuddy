@@ -1,2 +1,2 @@
 0.0.2
-https://github.com/Hopure/TFDBuddy/releases/download/0.0.2/TFDBuddy.v0.0.2.rar
+https://github.com/Hopure/TFDBuilder/releases/download/0.0.2/Build.v0.0.2.rar
